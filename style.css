@@ -1,0 +1,9 @@
+input {
+	border-radius: 30px;
+}
+textarea {
+	border: solid red;
+}
+textarea:focus {
+	border: green solid;
+}
